@@ -7,7 +7,7 @@ Procedure to train the model:
 3. Use phase-1 training.ipynb notebook to train using supervised contrastive learning.
 4. Save the weights as "sk_with_contrastive_loss.pth". The saved weights can be accessed from the given link:
    https://drive.google.com/file/d/1DZUYaBrwW6NRXvQgsqb2IPQRDwQX6g6z/view?usp=sharing  
-5. Upload "sk_with_contrastive_loss.pth" inside a folder named "model weights" to phase-2 training.ipynb notebook to train the model using supervised learning. After training the model, we get an CMAP score of 82.58%. 
+5. Upload "sk_with_contrastive_loss.pth" inside a folder named "model-weights" to phase-2 training.ipynb notebook to train the model using supervised learning. After training the model, we get an CMAP score of 82.58%. 
 6. Save the weights from this model as "skresnet18_with_contrastive loss.pth". The saved weights can be accessed from the given link:
     https://drive.google.com/file/d/1R3jSCWQYMPenFuwVFmF7xlja6MOOfdCG/view?usp=sharing
 
