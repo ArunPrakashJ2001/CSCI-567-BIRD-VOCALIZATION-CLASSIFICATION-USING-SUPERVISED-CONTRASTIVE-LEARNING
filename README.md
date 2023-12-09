@@ -2,8 +2,8 @@
 Birds, vital indicators of environmental health, require accurate identification through calls for effective monitoring. Our study enhances this using supervised contrastive learning with deep CNN architectures on mel-spectrograms. Objective: improve training convergence.
 
 Procedure to train the model:
-1. Download the dataset of melSpectrograms from the given link:
-2. Upload this dataset to kaggle and unzip it.
+1. Download the dataset of melSpectrograms from the given link: https://drive.google.com/file/d/1GaCXpmAjy3pSP9yq7sATHm-KJnXtqJLa/view?usp=sharing
+2. Upload this dataset to kaggle...unzip it and save it in a folder named .
 3. Use phase-1 training.ipynb notebook to train using supervised contrastive learning.
 4. Save the weights as "sk_with_contrastive_loss.pth". The saved weights can be accessed from the given link:
    https://drive.google.com/file/d/1DZUYaBrwW6NRXvQgsqb2IPQRDwQX6g6z/view?usp=sharing  
